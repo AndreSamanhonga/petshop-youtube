@@ -1,6 +1,6 @@
 import Image from "next/image";
-import about1Img from '../../../public/about-1.png'
-import about2Img from '../../../public/about-2.png'
+import about1Img from '../../../public/bispoL.jpg'
+import about2Img from '../../../public/padre.jpg'
 import { Check, MapPin } from "lucide-react";
 import { WhatsappLogo } from "@phosphor-icons/react/dist/ssr";
 
@@ -40,21 +40,21 @@ export function About() {
             <h2 className="text-4xl font-bold">SOBRE</h2>
 
             <p>
-              Until one has loved an animal, a part of one's soul remains unawakened. We believe in it and we believe in easy access to things that are good for our mind, body and spirit. With a clever offering, superb support and a secure checkout you're in good hands.
+            A Diocese de Luena desempenha um papel importante na vida religiosa e social da região, com 47 paróquias e centenas de capelas, orfanatos, escolas e obras sociais. Enfrenta desafios como a pobreza, problemas de infraestrutura e os efeitos da guerra civil angolana que devastou a região.
             </p>
 
             <ul className="space-y-4">
               <li className="flex items-center gap-2">
                 <Check className="text-red-500" />
-                Aberto desde 2006.
+                A igreja do Sacalumbo Nossa Senhora das Vitórias do Luena fica no Bairro Zorró depois do bairro Passa Fome.
               </li>
               <li className="flex items-center gap-2">
                 <Check className="text-red-500" />
-                Equipe com mais de 10 veterinários.
+                Na Diocese de Luena, nossos padres são guias espirituais dedicados, comprometidos com o serviço à comunidade e à missão da Igreja
               </li>
               <li className="flex items-center gap-2">
                 <Check className="text-red-500" />
-                Qualidade é nossa prioridade.
+                Eles desempenham um papel essencial em nossas vidas, oferecendo apoio, orientação e liderança. Aqui estão as fotos dos nossos respectivos padres, que com amor e devoção, servem a nossa Diocese.”ed. Sit amet porttitor eget dolor morbi.
               </li>
             </ul>
 
