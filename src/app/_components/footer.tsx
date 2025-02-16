@@ -22,7 +22,7 @@ export function Footer() {
       <div className='container mx-auto px-4'>
 
         <div className='border-b border-white/20 pb-8'>
-          <h4 className='text-3xl font-semibold mb-8 text-center'>Marcas que trabalhamos</h4>
+          <h4 className='text-3xl font-semibold mb-8 text-center'>Nossa Missão</h4>
 
           <div className="grid grid-cols-2 lg:grid-cols-6 gap-8">
             {brands.map((item, index) => (
@@ -60,9 +60,9 @@ export function Footer() {
 
           <div>
             <h3 className='text-2xl font-semibold mb-2'>Contatos</h3>
-            <p>Email: teste@teste.com</p>
-            <p>Telefone: (XX) 1231831238</p>
-            <p>Rua X, centro, Campo Grande | MS</p>
+            <p>Email: andrejeremias24@gmail.com</p>
+            <p>Telefone: 935267573</p>
+            <p>Bº Passa fome</p>
           </div>
 
 

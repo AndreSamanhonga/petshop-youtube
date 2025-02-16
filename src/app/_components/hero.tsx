@@ -1,6 +1,6 @@
 import { WhatsappLogo } from '@phosphor-icons/react/dist/ssr'
-import dogImg from '../../../public/hero-dog.webp'
-import catImg from '../../../public/cat-hero.png'
+import dogImg from '../../../public/bispo.png'
+import catImg from '../../../public/pedro.jpg'
 import Image from 'next/image'
 
 
@@ -29,10 +29,10 @@ export function Hero() {
               className="text-3xl md:text-4xl lg:text-5xl font-bold leading-10"
               data-aos="fade-down"
             >
-              Seu pet merece cuidado, carinho e atenção especial.
+              Bem vindo a Diocese do Lwena
             </h1>
             <p className=" lg:text-lg" data-aos="fade-right">
-              Oferecemos os melhores serviços para garantir o bem-estar e a felicidade do seu amigo de quatro patas.
+            A Diocese de Lwena atua principalmente em atividades pastorais, educacionais e sociais, buscando promover o desenvolvimento integral da população da região. Ela faz parte da Conferência Episcopal de Angola e São Tomé (CEAST).
             </p>
 
 
@@ -49,7 +49,7 @@ export function Hero() {
 
             <div className="mt-8">
               <p className="text-sm mb-4">
-                <b className="bg-black text-white px-2 py-1 rounded-md">5%</b> de desconto na primeira compra.
+                <b className="bg-black text-white px-2 py-1 rounded-md">5%</b> Participe em nossos cultos.
               </p>
 
               <div className='flex mt-4'>
